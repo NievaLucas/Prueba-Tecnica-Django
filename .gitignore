@@ -1,0 +1,9 @@
+# Entornos virutales
+venv/
+env/
+
+# Archivo local
+.env
+
+# Cache
+__pycache__
